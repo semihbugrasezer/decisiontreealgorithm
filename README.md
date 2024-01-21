@@ -1,4 +1,3 @@
-# decisiontreealgorithm
 Prediction using Decision Tree Algorithm (Level - Intermediate) The Spark Foundation İntership
 
 Completing the task of 📊 Prediction Using Decision Tree Algorithm for The Sparks Foundation 📈
